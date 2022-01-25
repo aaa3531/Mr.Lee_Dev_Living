@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+/* widget-basic-popular-list */
+.widget-basic-popular-list { }
+.widget-basic-popular-list ul { padding:0px; margin:0px; line-height:22px; list-style:none; overflow: hidden; }
+.widget-basic-popular-list li { margin:0; padding:0px; float: left; color: rgb(100, 154, 225); font-size: 11px; border:1px solid rgb(100, 154, 225); border-radius: 4px; margin: 1px 2px; padding: 1px 2px; }
+.widget-basic-popular-list li a { color: rgb(100, 154, 225); }
+.widget-basic-popular-list li .icon { color:#ddd; }
+.widget-basic-popular-list li .count { margin-left:8px; margin-right:4px; }
+.widget-basic-popular-list li.item-none { padding:50px 10px; }
+.widget-basic-popular-list li.btn-wset { display:none; }
